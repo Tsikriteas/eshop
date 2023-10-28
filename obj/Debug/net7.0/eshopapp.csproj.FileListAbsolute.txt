@@ -1,0 +1,14 @@
+C:\Users\fanis\Desktop\learn c#\eshopapp\bin\Debug\net7.0\eshopapp.exe
+C:\Users\fanis\Desktop\learn c#\eshopapp\bin\Debug\net7.0\eshopapp.deps.json
+C:\Users\fanis\Desktop\learn c#\eshopapp\bin\Debug\net7.0\eshopapp.runtimeconfig.json
+C:\Users\fanis\Desktop\learn c#\eshopapp\bin\Debug\net7.0\eshopapp.dll
+C:\Users\fanis\Desktop\learn c#\eshopapp\bin\Debug\net7.0\eshopapp.pdb
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.AssemblyInfoInputs.cache
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.AssemblyInfo.cs
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.csproj.CoreCompileInputs.cache
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.dll
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\refint\eshopapp.dll
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.pdb
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\eshopapp.genruntimeconfig.cache
+C:\Users\fanis\Desktop\learn c#\eshopapp\obj\Debug\net7.0\ref\eshopapp.dll
